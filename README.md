@@ -48,24 +48,31 @@ Backend: Python-based processing
 1. DeepLabV3+ (Segmentation Model)
 
 -Performs semantic segmentation of food items
+
 -Accurately separates multiple food regions in an image
+
 -Helps in handling overlapping dishes
 
 2. ResNet34 (Backbone Network)
 
 -Extracts deep features from images
+
 -Improves segmentation performance
+
 -Handles complex visual patterns
 
 3. Portion Size Estimation
 
 -Uses pixel area from segmented output
+
 -Converts image area into approximate quantity
 
 4. Calorie Estimation
 
 -Uses predefined calorie density values (kcal/100g)
+
 -Maps food groups such as grains, vegetables, seafood, etc.
+
 -Calculates total calorie value of the meal
 
 **📊 Results and Evaluation**
