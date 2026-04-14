@@ -1,4 +1,5 @@
-**#Multi-Dish Food Calorie Estimation**
+**Multi-Dish Food Calorie Estimation**
+
 Estimating calories from food images using Deep Learning and Computer Vision
 
 **Multi-Dish Food Calorie Estimation using DeepLabV3+ and ResNet34**
